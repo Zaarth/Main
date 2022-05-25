@@ -41,6 +41,13 @@ hspd = vir * 4;
 }
    }
 
+if (hspd = 0){
+	sprite_index = spr_enemy_idle;
+}
+else
+{
+	sprite_index = spr_enemy_run;
+}
 
 if distance_to_object(obj_player) > distance
 {
