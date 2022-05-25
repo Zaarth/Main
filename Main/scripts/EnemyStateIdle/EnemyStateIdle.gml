@@ -1,19 +1,22 @@
 function EnemyStateIdle(){
 	#region Move
-
+if state = EnemyState.IDLE
+{
+hspd = 0;
+sprite_index = spr_enemy_idle;
+}
 
 vspd = vspd + grv;
 
 //Colisão horizontal
- if place_meeting(x+hspd,y,obj_wall)
-{
-	while(!place_meeting(x+sign(hspd),y,obj_wall))
-	{
-	x = x + sign(hspd);
-	}
-hspd = 0;
+ repeat(abs(hspd)) {
+    if !place_meeting(x + sign(hspd), y, obj_wall) {
+        x += sign(hspd)
+    } else {
+        hspd = 0;
+        break;
+    }
 }
-	x = x + hspd;
 
 //Colisão vertical
 

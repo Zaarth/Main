@@ -30,8 +30,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Geral",
+    "path": "folders/Objects/Geral.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_wall_transpassar",

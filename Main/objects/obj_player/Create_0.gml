@@ -14,6 +14,7 @@ ataque = 1;
 enum PlayerState
 {
 FREE,
-ATK
+ATK,
+RUN
 }
 
