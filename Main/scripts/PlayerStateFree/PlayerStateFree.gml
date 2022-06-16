@@ -1,4 +1,3 @@
-
 function PlayerStateFree(){
 get_input();
 #region Ground check

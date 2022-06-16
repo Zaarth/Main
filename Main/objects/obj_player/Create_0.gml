@@ -1,4 +1,4 @@
-hp_max = 10;
+hp_max = 3;
 hp_actual = hp_max;
 hspd = 0;
 
@@ -15,6 +15,8 @@ enum PlayerState
 {
 FREE,
 ATK,
-RUN
+RUN,
+HURT,
+DEAD
 }
 

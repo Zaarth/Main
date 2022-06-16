@@ -5,6 +5,7 @@
   },
   "solid": false,
   "visible": true,
+  "managed": true,
   "spriteMaskId": {
     "name": "spr_enemy_idle",
     "path": "sprites/spr_enemy_idle/spr_enemy_idle.yy",

@@ -9,6 +9,10 @@ image_speed = 0.4;
 flash = 0;
 state = EnemyState.IDLE;
 
+dano = noone;
+ataque = 1;
+posso = true;   //se ele pode atacar
+
 enum EnemyState
 {
 IDLE,

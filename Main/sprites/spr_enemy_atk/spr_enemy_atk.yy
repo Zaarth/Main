@@ -83,7 +83,7 @@
     "spriteId": {"name":"spr_enemy_atk","path":"sprites/spr_enemy_atk/spr_enemy_atk.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 20.0,
+    "playbackSpeed": 40.0,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
