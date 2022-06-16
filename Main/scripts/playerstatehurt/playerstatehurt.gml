@@ -9,7 +9,7 @@ function PlayerStateHurt(){
 	}
 	
 	//Saindo do estado 
-	if (image_index >= image_number - 1)
+	if (image_index >= image_number - 1) and state != PlayerState.DEAD
 	{		
 		if(hp_actual > 0)
 		{
