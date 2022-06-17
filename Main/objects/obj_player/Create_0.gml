@@ -3,8 +3,8 @@ hp_actual = hp_max;
 hspd = 0;
 
 vspd = 0;
-spd = 8;
-combo = 0;
+spd = 5;
+
 
 state = PlayerState.FREE;
 

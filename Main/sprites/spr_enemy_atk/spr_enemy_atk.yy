@@ -123,7 +123,7 @@
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
     "xorigin": 37,
-    "yorigin": 71,
+    "yorigin": 67,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_enemy_atk","path":"sprites/spr_enemy_atk/spr_enemy_atk.yy",},
