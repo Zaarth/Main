@@ -7,10 +7,7 @@ case EnemyState.HURT: EnemyStateHurt(); break;
 case EnemyState.DEAD: EnemyStateDead(); break;
 }
 
-if keyboard_check_pressed(ord("L"))
-{
-	state = EnemyState.HURT
-}
+
 
 
 
