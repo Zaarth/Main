@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"spr_background_config","path":"sprites/spr_background_config/spr_background_config.yy",},"order":0,},
+    {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},"order":1,},
     {"id":{"name":"obj_background3","path":"objects/obj_background3/obj_background3.yy",},"order":1,},
     {"id":{"name":"ob_camera","path":"objects/ob_camera/ob_camera.yy",},"order":0,},
     {"id":{"name":"Spr_menu_start","path":"sprites/Spr_menu_start/Spr_menu_start.yy",},"order":3,},
