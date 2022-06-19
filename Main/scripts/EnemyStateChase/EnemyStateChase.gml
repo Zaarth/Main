@@ -7,7 +7,7 @@ vspd = vspd + GRAVIDADE
 //Colisão horizontal
  repeat(abs(hspd)) {
     if !place_meeting(x + sign(hspd), y, obj_wall) {
-        x += sign(hspd)
+        x += sign(hspd);
     } else {
         hspd = 0;
         break;

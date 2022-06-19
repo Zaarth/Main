@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Spr_menu_configuracoes",
-    "path": "sprites/Spr_menu_configuracoes/Spr_menu_configuracoes.yy",
+    "name": "spr_voltar_menu",
+    "path": "sprites/spr_voltar_menu/spr_voltar_menu.yy",
   },
   "solid": false,
   "visible": true,
@@ -35,7 +35,7 @@
     "path": "folders/Objects/Geral/Menu/Menu_Pause.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_pause_config",
+  "name": "obj_voltar_menu",
   "tags": [],
   "resourceType": "GMObject",
 }
