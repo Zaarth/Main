@@ -14,7 +14,7 @@
   ],
   "layers": [
     {"assets":[
-        {"spriteId":{"name":"spr_creditos","path":"sprites/spr_creditos/spr_creditos.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":683.0,"y":393.5,"resourceVersion":"1.0","name":"graphic_772F0805","tags":[],"resourceType":"GMRSpriteGraphic",},
+        {"spriteId":{"name":"spr_creditos","path":"sprites/spr_creditos/spr_creditos.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":683.0,"y":400.5,"resourceVersion":"1.0","name":"graphic_772F0805","tags":[],"resourceType":"GMRSpriteGraphic",},
         {"spriteId":{"name":"spr_cretditos_tittle","path":"sprites/spr_cretditos_tittle/spr_cretditos_tittle.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":682.5,"y":160.0,"resourceVersion":"1.0","name":"graphic_78D2EC8","tags":[],"resourceType":"GMRSpriteGraphic",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Textos","tags":[],"resourceType":"GMRAssetLayer",},
     {"instances":[
