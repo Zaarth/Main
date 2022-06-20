@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"Sprite44","path":"sprites/Sprite44/Sprite44.yy",},"order":0,},
     {"id":{"name":"spr_background_config","path":"sprites/spr_background_config/spr_background_config.yy",},"order":0,},
     {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},"order":1,},
     {"id":{"name":"obj_background3","path":"objects/obj_background3/obj_background3.yy",},"order":1,},
@@ -34,10 +35,12 @@
     {"id":{"name":"PlayerStateFree","path":"scripts/PlayerStateFree/PlayerStateFree.yy",},"order":1,},
     {"id":{"name":"spr_player_run","path":"sprites/spr_player_run/spr_player_run.yy",},"order":1,},
     {"id":{"name":"obj_wall_transpassar","path":"objects/obj_wall_transpassar/obj_wall_transpassar.yy",},"order":1,},
+    {"id":{"name":"Sprite45","path":"sprites/Sprite45/Sprite45.yy",},"order":1,},
     {"id":{"name":"spr_background_menu","path":"sprites/spr_background_menu/spr_background_menu.yy",},"order":2,},
     {"id":{"name":"EnemyStateChase","path":"scripts/EnemyStateChase/EnemyStateChase.yy",},"order":1,},
     {"id":{"name":"obj_menu_sair","path":"objects/obj_menu_sair/obj_menu_sair.yy",},"order":5,},
     {"id":{"name":"spr_enemy_idle","path":"sprites/spr_enemy_idle/spr_enemy_idle.yy",},"order":0,},
+    {"id":{"name":"TileSet4","path":"tilesets/TileSet4/TileSet4.yy",},"order":3,},
     {"id":{"name":"obj_background4","path":"objects/obj_background4/obj_background4.yy",},"order":0,},
     {"id":{"name":"obj_menu_voltar_menu","path":"objects/obj_menu_voltar_menu/obj_menu_voltar_menu.yy",},"order":6,},
     {"id":{"name":"Spr_menu_configuracoes","path":"sprites/Spr_menu_configuracoes/Spr_menu_configuracoes.yy",},"order":1,},
@@ -60,6 +63,7 @@
     {"id":{"name":"spr_player_jump","path":"sprites/spr_player_jump/spr_player_jump.yy",},"order":2,},
     {"id":{"name":"spr_config_tela_cheia","path":"sprites/spr_config_tela_cheia/spr_config_tela_cheia.yy",},"order":0,},
     {"id":{"name":"obj_tela_janela","path":"objects/obj_tela_janela/obj_tela_janela.yy",},"order":8,},
+    {"id":{"name":"TileSet3","path":"tilesets/TileSet3/TileSet3.yy",},"order":2,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"spr_enemyidle","path":"sprites/spr_enemyidle/spr_enemyidle.yy",},"order":6,},
     {"id":{"name":"obj_enemy1","path":"objects/obj_enemy1/obj_enemy1.yy",},"order":0,},
@@ -85,6 +89,7 @@
     {"id":{"name":"obj_voltar_menu","path":"objects/obj_voltar_menu/obj_voltar_menu.yy",},"order":3,},
     {"id":{"name":"EnemyStateDead","path":"scripts/EnemyStateDead/EnemyStateDead.yy",},"order":3,},
     {"id":{"name":"spr_background1","path":"sprites/spr_background1/spr_background1.yy",},"order":3,},
+    {"id":{"name":"Sprite46","path":"sprites/Sprite46/Sprite46.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":1,},
   ],
   "Options": [
@@ -142,6 +147,7 @@
     {"folderPath":"folders/Sprites/Geral/Menu/Configuracoes.yy","order":9,"resourceVersion":"1.0","name":"Configuracoes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Background.yy","order":13,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Inimigo.yy","order":3,"resourceVersion":"1.0","name":"Inimigo","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Fundo.yy","order":4,"resourceVersion":"1.0","name":"Fundo","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
