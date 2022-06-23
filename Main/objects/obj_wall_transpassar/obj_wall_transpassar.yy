@@ -4,7 +4,7 @@
     "path": "sprites/spr_wall_transpassar/spr_wall_transpassar.yy",
   },
   "solid": false,
-  "visible": true,
+  "visible": false,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,

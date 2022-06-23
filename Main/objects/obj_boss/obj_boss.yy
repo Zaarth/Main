@@ -7,8 +7,8 @@
   "visible": true,
   "managed": true,
   "spriteMaskId": {
-    "name": "spr_boss_idle_1",
-    "path": "sprites/spr_boss_idle_1/spr_boss_idle_1.yy",
+    "name": "spr_boss_idle",
+    "path": "sprites/spr_boss_idle/spr_boss_idle.yy",
   },
   "persistent": false,
   "parentObjectId": null,

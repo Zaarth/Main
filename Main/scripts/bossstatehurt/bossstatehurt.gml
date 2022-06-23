@@ -1,6 +1,5 @@
-// Script assets have changed for v2.3.0 see
-// https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
-function bossstatehurt(){
+
+function BossStateHurt(){
 if state = BossState.HURT{
 	sprite_index = spr_boss_hurt
 	hspd = 0;
