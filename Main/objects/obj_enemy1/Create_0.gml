@@ -5,6 +5,7 @@ grv = 0.4;
 hp = 5;
 hp_actual = hp;
 distance = 600;
+distance2 = 20;
 image_speed = 0.4;
 flash = 0;
 state = EnemyState.IDLE;

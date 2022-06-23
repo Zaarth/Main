@@ -6,3 +6,4 @@ switch (state)
 	case PlayerState.HURT: PlayerStateHurt(); break;
 	case PlayerState.DEAD: PlayerStateDead(); break;
 }
+
