@@ -1,4 +1,5 @@
 function BossStateIdle(){
+	
 	#region Move
 if state = BossState.IDLE
 {
@@ -40,5 +41,7 @@ if distance_to_object(obj_player) < distance
 state = BossState.CHASE;
 sprite_index = spr_boss_run;
 }
+
+
 
 }

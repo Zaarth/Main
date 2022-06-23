@@ -1,7 +1,7 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function BossStateAtk(){
-if state = BossState.ATK
+if state = EnemyState.ATK
 {
 	hspd = 0;
 	sprite_index = spr_boss_atk;
