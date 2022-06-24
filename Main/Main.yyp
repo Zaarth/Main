@@ -98,6 +98,7 @@
     {"id":{"name":"obj_tela_janela","path":"objects/obj_tela_janela/obj_tela_janela.yy",},"order":9,},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"order":0,},
     {"id":{"name":"obj_menu_pause_controles","path":"objects/obj_menu_pause_controles/obj_menu_pause_controles.yy",},"order":1,},
+    {"id":{"name":"spr_danoB","path":"sprites/spr_danoB/spr_danoB.yy",},"order":5,},
     {"id":{"name":"BossStateIdle","path":"scripts/BossStateIdle/BossStateIdle.yy",},"order":0,},
     {"id":{"name":"obj_voltar_pause","path":"objects/obj_voltar_pause/obj_voltar_pause.yy",},"order":2,},
     {"id":{"name":"spr_enemyidle","path":"sprites/spr_enemyidle/spr_enemyidle.yy",},"order":6,},
