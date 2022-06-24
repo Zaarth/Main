@@ -95,7 +95,7 @@
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
     "xorigin": 29,
-    "yorigin": 62,
+    "yorigin": 85,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"spr_enemy_idle","path":"sprites/spr_enemy_idle/spr_enemy_idle.yy",},
