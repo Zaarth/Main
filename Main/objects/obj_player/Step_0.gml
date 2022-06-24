@@ -7,3 +7,9 @@ switch (state)
 	case PlayerState.DEAD: PlayerStateDead(); break;
 }
 
+if(obj_player.y > 1400) && (room == Room1)
+{
+	game_restart();
+}
+
+

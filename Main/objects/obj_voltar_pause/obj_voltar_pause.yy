@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_menu_controles",
-    "path": "sprites/spr_menu_controles/spr_menu_controles.yy",
+    "name": "spr_menu_fechar",
+    "path": "sprites/spr_menu_fechar/spr_menu_fechar.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,19 +23,19 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":7,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":10,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":11,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":7,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Menu",
-    "path": "folders/Objects/Geral/Menu.yy",
+    "name": "Menu_Pause",
+    "path": "folders/Objects/Geral/Menu/Menu_Pause.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_menu_controles",
+  "name": "obj_voltar_pause",
   "tags": [],
   "resourceType": "GMObject",
 }

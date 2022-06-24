@@ -7,7 +7,7 @@ if state = EnemyState.ATK
 	sprite_index = spr_boss_atk;
 	
 	//Criando o dano
-	if(image_index >= 8 && dano == noone && image_index <15 && posso)
+	if(image_index >= 2 && dano == noone && image_index < 9 && posso)
 	{
 		dano = instance_create_layer(x + sprite_width/2, y - sprite_height/3, layer, obj_dano_boss);
 		dano.dano = ataque;
@@ -15,7 +15,7 @@ if state = EnemyState.ATK
 		posso = false;
 	}
 	//Destruindo o dano
-	if(dano !=noone && image_index >=10)
+	if(dano !=noone && image_index >= 6)
 	{
 		instance_destroy(dano);
 		dano = noone;

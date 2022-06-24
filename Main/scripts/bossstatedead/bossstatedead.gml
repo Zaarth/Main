@@ -8,5 +8,6 @@ function BossStateDead(){
 	sprite_index = spr_boss_dead;
 if (image_index > image_number-1){
 instance_destroy();
+room_goto(Rm_final);
 }
 }

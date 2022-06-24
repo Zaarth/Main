@@ -31,11 +31,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Menu",
-    "path": "folders/Objects/Geral/Menu.yy",
+    "name": "Menu_Pause",
+    "path": "folders/Objects/Geral/Menu/Menu_Pause.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_menu_controles",
+  "name": "obj_menu_pause_controles",
   "tags": [],
   "resourceType": "GMObject",
 }
